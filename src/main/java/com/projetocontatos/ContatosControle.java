@@ -2,6 +2,7 @@ package com.projetocontatos;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.servlet.ModelAndView;
 
 import java.util.ArrayList;
 
@@ -21,6 +22,13 @@ public class ContatosControle {
     @GetMapping("/")
     public String index() {
         return "index";
+    }
+
+    @GetMapping("/contatos")
+    public ModelAndView listar() {
+        ModelAndView mv = new ModelAndView("listar");
+        mv.addObject("contatos", LISTA_CONTATOS);
+        return mv;
     }
 
 }

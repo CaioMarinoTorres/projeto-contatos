@@ -8,7 +8,9 @@ public class Contato {
 
     private String telefone;
 
-    public Contato() {}
+    public Contato() {
+
+    }
 
     public Contato(String id, String nome, String telefone) {
         this.id = id;
