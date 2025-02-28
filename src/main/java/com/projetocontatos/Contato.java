@@ -8,6 +8,10 @@ public class Contato {
 
     private String telefone;
 
+    public boolean isNovo() {
+        return id == null;
+    }
+
     public Contato() {
 
     }
