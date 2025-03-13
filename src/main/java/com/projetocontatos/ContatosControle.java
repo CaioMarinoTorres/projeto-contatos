@@ -43,7 +43,8 @@ public class ContatosControle {
 
     @PostMapping("/contatos")
     public String cadastrar(Contato contato) {
-        String id = UUID.randomUUID().toString();
+        String id = "0" + (LISTA_CONTATOS.size() + 1);
+        contato.setId(id);
         LISTA_CONTATOS.add(contato);
         return "redirect:/contatos";
     }
