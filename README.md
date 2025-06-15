@@ -5,7 +5,7 @@ parte de estruturação do projeto e nomenclaturas. Embora não seja o foco do c
 
 ## Rodando o projeto: 
 
-Este projeto, não está hospedado em um servidor por se tratar de uma aplicação simples. Para rodar o projeto, basta fazer o clone do repositorio e levantar o projeto. Como mencionado anteriormente, o frond-end já está incluso neste projeto através do thymeleaf.
+Este projeto não está hospedado em um servidor por se tratar de uma aplicação simples. Para rodar o projeto, basta fazer o clone do repositorio e levantar o projeto. Como mencionado anteriormente, o frond-end já está incluso neste projeto através do thymeleaf.
 
 #
 
