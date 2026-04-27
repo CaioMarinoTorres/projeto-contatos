@@ -1,15 +1,54 @@
-# projeto-contato
+# 📇 Projeto Contatos
 
-Este é um projeto proposto no curso de "Logica de programação com java para iniciantes" da [AlgaWorks](https://www.algaworks.com/). Como o proprio nome já sugere, este projeto que além de ser uma introdução ao java, já trabalha com boas práticas visadas pelo mercado, como na
-parte de estruturação do projeto e nomenclaturas. Embora não seja o foco do curso, é feito uma breve introdução ao Thymeleaf para desenvolver o front-end na mesma aplicação e poder ver o projeto funcionando.
+![Java](https://img.shields.io/badge/Java-17+-orange)
+![Spring](https://img.shields.io/badge/Spring-Boot-brightgreen?logo=spring\&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Template-green?logo=thymeleaf\&logoColor=white)
+![Status](https://img.shields.io/badge/status-concluído-blue)
 
-## Rodando o projeto: 
+> Projeto desenvolvido durante o curso **"Lógica de Programação com Java para Iniciantes"** da [AlgaWorks](https://www.algaworks.com/).
 
-Este projeto não está hospedado em um servidor por se tratar de uma aplicação simples. Para rodar o projeto, basta fazer o clone do repositorio e levantar o projeto. Como mencionado anteriormente, o frond-end já está incluso neste projeto através do thymeleaf.
+---
 
-#
+## ✨ Sobre o projeto
 
-![JAVA](https://img.shields.io/badge/JAVA-icon?style=flat&color=red)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-icon?style=flat&logo=thymeleaf&logoColor=white&color=green)
-![Spring](https://img.shields.io/badge/Spring-icon?logo=spring&logoColor=white)
+O **Projeto Contatos** foi criado com o objetivo de consolidar os fundamentos do desenvolvimento com Java, indo além da lógica básica e abordando:
 
+* Organização de código
+* Boas práticas de nomenclatura
+* Estruturação inicial de aplicações
+
+Também inclui uma introdução ao **Thymeleaf**, permitindo visualizar uma interface web integrada ao backend.
+
+---
+
+## 🚀 Tecnologias
+
+* Java
+* Spring Framework
+* Thymeleaf
+
+---
+
+## ▶️ Como executar
+
+Este projeto é executado localmente:
+
+```bash id="v1yk6o"
+git clone https://github.com/CaioMarinoTorres/projeto-contatos
+cd projeto-contatos
+```
+
+Execute a aplicação pela sua IDE ou via linha de comando.
+Após iniciar, a interface web estará disponível no navegador.
+
+---
+
+## 🎯 Objetivo
+
+Este repositório demonstra:
+
+* Evolução no aprendizado de Java
+* Aplicação prática de conceitos fundamentais
+* Primeiro contato com desenvolvimento web integrado
+
+---
